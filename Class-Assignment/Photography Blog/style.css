@@ -47,7 +47,7 @@ section{
     left: 50%;
     transform: translate(-50%, -50%);
     background-color: rgba(241, 234, 234, 0.5);
-    width: 320px;
+    width: 340px;
     height: 250px;
     display: flex;
     justify-content: center;
